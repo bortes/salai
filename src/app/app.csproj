@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>app</AssemblyName>
+        <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+        <OutputType>Exe</OutputType>
+        <RootNamespace>Salai</RootNamespace>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <Version>0.1.0</Version>
+    </PropertyGroup>
+
+
+</Project>
